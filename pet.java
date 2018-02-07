@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Pet
+public class pet
 {
 public static void main(String[]args)
 {
