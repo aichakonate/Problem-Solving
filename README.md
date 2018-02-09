@@ -4,4 +4,4 @@ Kattis Solutions in Java
 2. Number fun
 3. Pet
 4. Spavanac
-5. Troll HUnt
+5. Troll Hunt
